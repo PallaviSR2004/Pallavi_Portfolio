@@ -13,8 +13,7 @@ https://pallavisr2004.github.io/Pallavi_Portfolio/
 
 ## 📂 GitHub Repository
 👉 **Repository Link:**  
-https://github.com/PallaviSR2004/My-Portfolio
-
+https://github.com/PallaviSR2004/Pallavi_Portfolio
 ---
 
 ## ✨ Features
