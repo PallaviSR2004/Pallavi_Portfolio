@@ -7,7 +7,7 @@ It showcases my skills, projects, achievements, and contact information in a cle
 
 ## 🔗 Live Demo
 👉 **Live Website:**  
-https://pallavisr2004.github.io/My-Portfolio/
+https://pallavisr2004.github.io/Pallavi_Portfolio/
 
 ---
 
